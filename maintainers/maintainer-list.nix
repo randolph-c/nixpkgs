@@ -22965,6 +22965,11 @@
     githubId = 5653911;
     name = "Rampoina";
   };
+  randolph-c = {
+    name = "Randolph C.";
+    github = "randolph-c";
+    githubId = 109005681;
+  };
   randomdude = {
     name = "Random Dude";
     email = "randomdude16671@proton.me";
